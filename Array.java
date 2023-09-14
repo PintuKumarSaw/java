@@ -13,6 +13,8 @@ public class Array {
 				
 			}
 		}
+
+		System.out.println("This is a array");
 		
 	}
 
