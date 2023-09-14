@@ -5,7 +5,7 @@ public class Demo_02 {
 		System.out.println("Welcome to java classes");
 		int a=10;
 		System.out.println(a);
-		
+		System.out.println("the sum  is "+a);
 		
 	}
 }
