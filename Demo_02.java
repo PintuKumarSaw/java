@@ -6,6 +6,7 @@ public class Demo_02 {
 		int a=10;
 		System.out.println(a);
 		System.out.println("the sum  is "+a);
+		System.out.println("good");
 		
 	}
 }
